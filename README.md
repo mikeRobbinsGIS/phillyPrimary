@@ -1,5 +1,6 @@
-# Philadelphia Primary Elections
+# Philadelphia Primary Election
 You can view the map here!
+https://mikerobbinsgis.github.io/phillyPrimary/
 
 I was inspired to create a map for the 2020 primary election in Philly!<br>
 I'm using the 2016 results as a base until the results are live<br><br>
