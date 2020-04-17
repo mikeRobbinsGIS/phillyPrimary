@@ -9,3 +9,11 @@ View my python script within the processedData directory...I love pandas!
 
 ## Data Source
 https://www.philadelphiavotes.com/files/raw-data/2016_primary.csv
+
+## Python Libraries Used
+pandas<br>
+os<br>
+geopandas<br>
+numpy<br>
+json<br>
+fiona<br>
